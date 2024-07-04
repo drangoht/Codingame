@@ -1,0 +1,14 @@
+D:\CODE\CSHARP\codingame\cg\the-fall-ep1\the-fall-ep1\bin\Debug\net8.0\the-fall-ep1.exe
+D:\CODE\CSHARP\codingame\cg\the-fall-ep1\the-fall-ep1\bin\Debug\net8.0\the-fall-ep1.deps.json
+D:\CODE\CSHARP\codingame\cg\the-fall-ep1\the-fall-ep1\bin\Debug\net8.0\the-fall-ep1.runtimeconfig.json
+D:\CODE\CSHARP\codingame\cg\the-fall-ep1\the-fall-ep1\bin\Debug\net8.0\the-fall-ep1.dll
+D:\CODE\CSHARP\codingame\cg\the-fall-ep1\the-fall-ep1\bin\Debug\net8.0\the-fall-ep1.pdb
+D:\CODE\CSHARP\codingame\cg\the-fall-ep1\the-fall-ep1\obj\Debug\net8.0\the-fall-ep1.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\CSHARP\codingame\cg\the-fall-ep1\the-fall-ep1\obj\Debug\net8.0\the-fall-ep1.AssemblyInfoInputs.cache
+D:\CODE\CSHARP\codingame\cg\the-fall-ep1\the-fall-ep1\obj\Debug\net8.0\the-fall-ep1.AssemblyInfo.cs
+D:\CODE\CSHARP\codingame\cg\the-fall-ep1\the-fall-ep1\obj\Debug\net8.0\the-fall-ep1.csproj.CoreCompileInputs.cache
+D:\CODE\CSHARP\codingame\cg\the-fall-ep1\the-fall-ep1\obj\Debug\net8.0\the-fall-ep1.dll
+D:\CODE\CSHARP\codingame\cg\the-fall-ep1\the-fall-ep1\obj\Debug\net8.0\refint\the-fall-ep1.dll
+D:\CODE\CSHARP\codingame\cg\the-fall-ep1\the-fall-ep1\obj\Debug\net8.0\the-fall-ep1.pdb
+D:\CODE\CSHARP\codingame\cg\the-fall-ep1\the-fall-ep1\obj\Debug\net8.0\the-fall-ep1.genruntimeconfig.cache
+D:\CODE\CSHARP\codingame\cg\the-fall-ep1\the-fall-ep1\obj\Debug\net8.0\ref\the-fall-ep1.dll

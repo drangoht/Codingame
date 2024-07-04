@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CODE\\CSHARP\\codingame\\cg\\the-fall-ep1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A56F012-5C1F-47FD-A68E-C2FD5C6B00A0}|the-fall-ep1\\the-fall-ep1.csproj|d:\\code\\csharp\\codingame\\cg\\the-fall-ep1\\the-fall-ep1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A56F012-5C1F-47FD-A68E-C2FD5C6B00A0}|the-fall-ep1\\the-fall-ep1.csproj|solutionrelative:the-fall-ep1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CODE\\CSHARP\\codingame\\cg\\the-fall-ep1\\the-fall-ep1\\Program.cs",
+              "RelativeDocumentMoniker": "the-fall-ep1\\Program.cs",
+              "ToolTip": "D:\\CODE\\CSHARP\\codingame\\cg\\the-fall-ep1\\the-fall-ep1\\Program.cs",
+              "RelativeToolTip": "the-fall-ep1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T11:51:55.95Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

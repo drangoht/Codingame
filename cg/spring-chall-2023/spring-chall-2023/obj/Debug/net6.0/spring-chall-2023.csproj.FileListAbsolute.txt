@@ -1,0 +1,15 @@
+D:\CODE\codingame\spring-chall-2023\spring-chall-2023\bin\Debug\net6.0\spring-chall-2023.exe
+D:\CODE\codingame\spring-chall-2023\spring-chall-2023\bin\Debug\net6.0\spring-chall-2023.deps.json
+D:\CODE\codingame\spring-chall-2023\spring-chall-2023\bin\Debug\net6.0\spring-chall-2023.runtimeconfig.json
+D:\CODE\codingame\spring-chall-2023\spring-chall-2023\bin\Debug\net6.0\spring-chall-2023.dll
+D:\CODE\codingame\spring-chall-2023\spring-chall-2023\bin\Debug\net6.0\spring-chall-2023.pdb
+D:\CODE\codingame\spring-chall-2023\spring-chall-2023\obj\Debug\net6.0\spring-chall-2023.csproj.AssemblyReference.cache
+D:\CODE\codingame\spring-chall-2023\spring-chall-2023\obj\Debug\net6.0\spring-chall-2023.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\codingame\spring-chall-2023\spring-chall-2023\obj\Debug\net6.0\spring-chall-2023.AssemblyInfoInputs.cache
+D:\CODE\codingame\spring-chall-2023\spring-chall-2023\obj\Debug\net6.0\spring-chall-2023.AssemblyInfo.cs
+D:\CODE\codingame\spring-chall-2023\spring-chall-2023\obj\Debug\net6.0\spring-chall-2023.csproj.CoreCompileInputs.cache
+D:\CODE\codingame\spring-chall-2023\spring-chall-2023\obj\Debug\net6.0\spring-chall-2023.dll
+D:\CODE\codingame\spring-chall-2023\spring-chall-2023\obj\Debug\net6.0\refint\spring-chall-2023.dll
+D:\CODE\codingame\spring-chall-2023\spring-chall-2023\obj\Debug\net6.0\spring-chall-2023.pdb
+D:\CODE\codingame\spring-chall-2023\spring-chall-2023\obj\Debug\net6.0\spring-chall-2023.genruntimeconfig.cache
+D:\CODE\codingame\spring-chall-2023\spring-chall-2023\obj\Debug\net6.0\ref\spring-chall-2023.dll
